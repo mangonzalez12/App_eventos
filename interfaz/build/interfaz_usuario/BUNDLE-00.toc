@@ -1,0 +1,4 @@
+([('interfaz_usuario',
+   '/Users/manuelalejandrogonzalezhernandez/Documents/UVEG/Software '
+   'engineer/Reto_4/interfaz/dist/interfaz_usuario',
+   'EXECUTABLE')],)
